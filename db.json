@@ -1,0 +1,52 @@
+{
+    "product-list": [
+        {
+            "id": 1,
+            "name": "Office chair",
+            "price": 199.99,
+            "image": "https://cdn.shopify.com/s/files/1/0482/8121/products/IMG_3475_lzn_1024x1024.jpg?v=1454709758",
+            "quantity": 5,
+            "description": "Comfortable, reliable and supportive."
+        },
+        {
+            "id": 2,
+            "name": "Pen holder",
+            "price": 13.50,
+            "image": "https://4.bp.blogspot.com/-PhdQxFLvrXY/TyF97rtePVI/AAAAAAABEIQ/ZpLGrYr2M8Y/s1600/11.JPG",
+            "quantity": 26,
+            "description": "A handy desk application for the regular pen-pusher."
+        },
+        {
+            "id": 3,
+            "name": "Cable organiser",
+            "price": 39.99,
+            "image": "https://www.electrojjsanjuan.es/wp-content/uploads/bridas-sujeta-cables-negras-1.jpg",
+            "quantity": 16,
+            "description": "Removes spaghetti tangles on your desk, but can't fix your spaghetti code."
+        },
+        {
+            "id": 4,
+            "name": "Smart phone stand",
+            "price": 95.00,
+            "image": "https://media.gadgetsin.com/2015/07/spigen_mobile_stand_s310_3.jpg",
+            "quantity": 42,
+            "description": "So that you can do social media while you pretend to work."
+        },
+        {
+            "id": 5,
+            "name": "Desk step counter",
+            "price": 89.99,
+            "image": "https://cf.shopee.sg/file/b517933b347c96286d504714ae6cbf35",
+            "quantity": 12,
+            "description": "Even a desk junkie like you can get 10k steps per day."
+        },
+        {
+            "id": 6,
+            "name": "Thinking cap",
+            "price": 299.99,
+            "image": "https://lh6.ggpht.com/-HKGSLwqgR7w/UJ_TrKRS9uI/AAAAAAAAr9U/EJiVdS5sFZc/thinking-cap_thumb.jpg?imgmax=800",
+            "quantity": 1,
+            "description": "Go ahead, put it on."
+        }
+    ]
+}
